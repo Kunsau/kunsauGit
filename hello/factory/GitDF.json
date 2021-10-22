@@ -1,0 +1,9 @@
+{
+	"name": "GitDF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1801e64b-db18-48ec-8814-8ff8bca942d4",
+		"tenantId": "805c8ad9-9d35-4f9f-9683-d3ac37567008"
+	}
+}
