@@ -18,7 +18,11 @@
 						"name": "Kunal Saurav",
 						"value": "0"
 					}
-				]
+				],
+				"typeProperties": {
+					"url": "http://dummy.restapiexample.com/api/v1/employee/1",
+					"method": "GET"
+				}
 			}
 		],
 		"annotations": []
